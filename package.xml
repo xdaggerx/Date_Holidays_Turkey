@@ -20,7 +20,7 @@
   <release>alpha</release>
   <api>alpha</api>
  </stability>
- <license uri="http://www.php.net/license">PHP License</license>
+ <license uri="http://www.opensource.org/licenses/bsd-license.html">BSD License</license>
  <notes>
 Slight changes to testsuite so it works when installed rather than in developers environment.
  </notes>
@@ -57,7 +57,7 @@ Slight changes to testsuite so it works when installed rather than in developers
     <api>alpha</api>
    </stability>
    <date>2008-05-07</date>
-   <license uri="http://www.php.net/license">PHP License</license>
+   <license uri="http://www.opensource.org/licenses/bsd-license.html">BSD License</license>
    <notes>
 initial pear release
    </notes>
